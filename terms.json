@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "term": "Функция",
+        "definition": "Блок кода, который выполняет определенную задачу и может быть вызван по имени",
+        "category": "Основы",
+        "is_learned": true,
+        "is_hard": false
+    },
+    {
+        "id": 2,
+        "term": "Цикл",
+        "definition": "Конструкция, позволяющая выполнять блок кода многократно",
+        "category": "Основы",
+        "is_learned": true,
+        "is_hard": false
+    },
+    {
+        "id": 3,
+        "term": "Массив (Список)",
+        "definition": "Структура данных, хранящая упорядоченный набор элементов",
+        "category": "Структуры данных",
+        "is_learned": true,
+        "is_hard": false
+    },
+    {
+        "id": 4,
+        "term": "Рекурсия",
+        "definition": "Способ определения функции, при котором она вызывает саму себя",
+        "category": "Алгоритмы",
+        "is_learned": true,
+        "is_hard": false
+    },
+    {
+        "id": 5,
+        "term": "API",
+        "definition": "Интерфейс программирования приложений, набор правил для взаимодействия программ",
+        "category": "Web",
+        "is_learned": true,
+        "is_hard": false
+    },
+    {
+        "id": 6,
+        "term": "Git",
+        "definition": "Распределенная система управления версиями",
+        "category": "Инструменты",
+        "is_learned": true,
+        "is_hard": false
+    },
+    {
+        "id": 7,
+        "term": "SQL",
+        "definition": "Язык структурированных запросов для работы с базами данных",
+        "category": "Базы данных",
+        "is_learned": true,
+        "is_hard": false
+    },
+    {
+        "id": 8,
+        "term": "Класс",
+        "definition": "Шаблон для создания объектов, определяющий их свойства и методы",
+        "category": "ООП",
+        "is_learned": true,
+        "is_hard": false
+    }
+]
